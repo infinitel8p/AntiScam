@@ -1,4 +1,4 @@
-# PokeDex - v.4.0.1
+# AntiScam
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Codacy Badge](https://img.shields.io/codacy/grade/15b2db02581044d19df555befd7fff14)](https://github.com/infinitel8p/AntiScam)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/infinitel8p/AntiScam)](https://github.com/infinitel8p/AntiScam)
