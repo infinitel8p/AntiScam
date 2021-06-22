@@ -8,8 +8,8 @@
 [![Github license](https://img.shields.io/github/license/infinitel8p/AntiScam)](https://github.com/infinitel8p/AntiScam/blob/master/LICENSE)
 ![Discord Widget](https://img.shields.io/discord/751084847555936408)
 
-### This PokeDex helps you pick the best possible attack against most Pokémon
-Ever found yourself in a fight against a Pokémon and wondering which attack would be the most effective? Check exactly that with this specialized version of the Pokedex!
+### With this project we try to fight the ongoing growth of scammers on popular web markets like eBay Kleinanzeiegn.
+Ever found yourself in a fight against a Scammer and wondering where it all went wrong? Check exactly that with this specialized Chrome extension!
 
 #### Contents:
  - [How to setup](https://github.com/infinitel8p/PokeDex#how-to-setup)
