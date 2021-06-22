@@ -11,7 +11,7 @@
 ### With this project we try to fight the ongoing growth of scammers on popular web markets like eBay Kleinanzeiegn.
 Ever found yourself in a fight against a Scammer and wondering where it all went wrong? Check exactly that with this specialized Chrome extension!
 
-#### Contents:
+
  - [How to setup](https://github.com/infinitel8p/PokeDex#how-to-setup)
  - [Update logs](https://github.com/infinitel8p/PokeDex#update-logs)
  - [PokeDex.exe is missing](https://github.com/infinitel8p/PokeDex#pokedexexe-is-missing)
