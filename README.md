@@ -1,11 +1,11 @@
 # PokeDex - v.4.0.1
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Codacy Badge](https://img.shields.io/codacy/grade/15b2db02581044d19df555befd7fff14)](https://github.com/infinitel8p/AntiScam)
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/infinitel8p/PokeDex)](https://github.com/infinitel8p/AntiScam)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/infinitel8p/PokeDex)](https://github.com/infinitel8p/AntiScam/releases)
-[![Github last commit](https://img.shields.io/github/last-commit/infinitel8p/PokeDex)](https://github.com/infinitel8p/AntiScam/commits/master)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/infinitel8p/pokedex)](https://github.com/infinitel8p/AntiScam/issues?q=is%3Aissue+is%3Aclosed)
-[![Github license](https://img.shields.io/github/license/infinitel8p/pokedex)](https://github.com/infinitel8p/AntiScam/blob/master/LICENSE)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/infinitel8p/AntiScam)](https://github.com/infinitel8p/AntiScam)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/infinitel8p/AntiScam)](https://github.com/infinitel8p/AntiScam/releases)
+[![Github last commit](https://img.shields.io/github/last-commit/infinitel8p/AntiScam)](https://github.com/infinitel8p/AntiScam/commits/master)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/infinitel8p/AntiScam)](https://github.com/infinitel8p/AntiScam/issues?q=is%3Aissue+is%3Aclosed)
+[![Github license](https://img.shields.io/github/license/infinitel8p/AntiScam)](https://github.com/infinitel8p/AntiScam/blob/master/LICENSE)
 ![Discord Widget](https://img.shields.io/discord/751084847555936408)
 
 ### This PokeDex helps you pick the best possible attack against most Pokémon
